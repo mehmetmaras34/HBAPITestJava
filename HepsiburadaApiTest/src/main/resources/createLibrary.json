@@ -1,0 +1,18 @@
+{
+  "spec": {},
+  "options": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "swaggerUrl": "http://petstore.swagger.io/v2/swagger.json",
+  "authorizationValue": {
+    "value": "string",
+    "type": "string",
+    "keyName": "string"
+  },
+  "securityDefinition": {
+    "type": "string",
+    "description": "string"
+  }
+}
